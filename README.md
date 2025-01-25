@@ -10,6 +10,7 @@ ToiletShare is a web application that provides a unique platform for booking toi
 - Facility Booking
 - E-Wallet Management
 - Metro Railway Facility Leasing
+- Drinking Water
 
 ## Technology Stack
 - React
