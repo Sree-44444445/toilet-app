@@ -115,7 +115,6 @@ https://drive.google.com/file/d/1Cmls0hLKJwybo1WkUsYSBH6VAc3yA-Xj/view?usp=drive
    
 # Build Photos
 ![Trio](https://drive.google.com/file/d/1DeJAKyGcwWLNzNxBLPq7GWg1wCEDGjOG/view?usp=drivesdk)
-![Trio](src\assets\Trio Pic.jpg)
 
 
 ###Screenshot
@@ -127,8 +126,6 @@ This screenshot showcases the home screen of the Toilet App. Users can view key 
 ### 2. Search Functionality
   
 "This screenshot illustrates the search functionality within the app. 
-
-
 
 
 # Additional Demos
